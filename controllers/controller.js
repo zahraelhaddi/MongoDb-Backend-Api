@@ -1,7 +1,7 @@
 import Questions from '../models/questionSchema.js';
 import Results from '../models/resultSchema.js';
 import questions, { answers } from '../database/data.js';
-
+//by zahra el haddi
 
 
 export async function getQuestions(req, res) {
